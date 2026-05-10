@@ -1,0 +1,36 @@
+#Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#Vector Database
+backend/db/
+
+#Environment Variables
+.env
+
+#VS Code
+.vscode/
+
+#React / Node 
+frontend/node_modules/
+
+#Logs
+*.log
+
+#OS Files
+.DS_Store
+Thumbs.db
+
+#Build Files
+frontend/build/
+
+#Temporary Files
+*.tmp
+*.temp
+
+#Personal Notes
+notes.docx
+notes.txt

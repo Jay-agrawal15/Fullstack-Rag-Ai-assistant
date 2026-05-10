@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is supervised learning?",
+    "expected": "learning using labeled data"
+  },
+  {
+    "question": "What is overfitting?",
+    "expected": "model learns noise"
+  },
+  {
+    "question": "What is capital of France?",
+    "expected": "REFUSE"
+  }
+]
