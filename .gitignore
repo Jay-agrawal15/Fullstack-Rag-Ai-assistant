@@ -5,8 +5,12 @@ __pycache__/
 *.pyo
 *.pyd
 
-#Vector Database
+# Data files
+backend/data/
 backend/db/
+
+# PDFs
+*.pdf
 
 #Environment Variables
 .env
